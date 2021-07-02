@@ -67,6 +67,21 @@ input, select, textarea {
 body {
   -ms-overflow-style: scrollbar; }
 
+#info_p {
+    width: 40%;
+}
+@media screen and (max-width: 800px) {
+    #info_p {
+        width: 80%;
+        display: block;
+    }
+}
+@media screen and (max-width: 600px) {
+    #info_p {
+        width: 95%;
+        display: block;
+    }
+}
 @media screen and (max-width: 480px) {
   html, body {
     min-width: 320px; } }
@@ -412,6 +427,7 @@ header h6 + p {
     font-weight: 900; }
   .icon.brands:before {
     font-family: 'Font Awesome 5 Brands'; }
+
 
 /* List */
 ol {
