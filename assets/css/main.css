@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #fff, #1e90ff);
-				background-image: -webkit-linear-gradient(to right, #fff, #1e90ff);
-				background-image: -ms-linear-gradient(to right, #fff, #1e90ff);
-				background-image: linear-gradient(to right, #fff, #1e90ff);
+				background-image: -moz-linear-gradient(to right, #f0f0f0, #1e90ff);
+				background-image: -webkit-linear-gradient(to right, #f0f0f0, #1e90ff);
+				background-image: -ms-linear-gradient(to right, #f0f0f0, #1e90ff);
+				background-image: linear-gradient(to right, #f0f0f0, #1e90ff);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3781,10 +3781,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #fff, #1e90ff);
-				background-image: -webkit-linear-gradient(to right, #fff, #1e90ff);
-				background-image: -ms-linear-gradient(to right, #fff, #1e90ff);
-				background-image: linear-gradient(to right, #fff, #1e90ff);
+				background-image: -moz-linear-gradient(to right, #f0f0f0, #1e90ff);
+				background-image: -webkit-linear-gradient(to right, #f0f0f0, #1e90ff);
+				background-image: -ms-linear-gradient(to right, #f0f0f0, #1e90ff);
+				background-image: linear-gradient(to right, #f0f0f0, #1e90ff);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
