@@ -2802,6 +2802,12 @@ input, select, textarea {
 				margin-top: 0;
 			}
 
+#black_button {
+	color:#000 !important;
+	border-color: #000 !important;
+}
+
+
 /* Icons */
 
 	ul.icons {
